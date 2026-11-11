@@ -3,9 +3,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_dunkel.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_hell.svg">
-  <img src="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_hell.svg" alt="GeRRy’s Codeatorium logo" width="560">
+  <img src="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_hell.svg#gh-light-mode-only" alt="Logo von GeRRy’s Codeatorium" width="560">
+  <img src="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_dunkel.svg#gh-dark-mode-only" alt="Logo von GeRRy’s Codeatorium" width="560">
 </picture>
 
 # 🖥️ GeRRy’s &lt;Codeatorium&gt;
