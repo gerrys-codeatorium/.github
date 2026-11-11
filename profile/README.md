@@ -17,6 +17,8 @@
 ![Location](https://img.shields.io/badge/Location-Germany-6B7280)
 ![Languages](https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE-6366f1)
 
+[Projects](#-projects) · [About](#-about) · [Feedback](#-feedback)
+
 </div>
 
 ---
@@ -26,10 +28,28 @@
 
 ## 🧰 Projects
 
-- 🌱 **[Grow Feed Calculator](https://github.com/gerry-git-ops/grow-feed-calculator)** – a small, open calculator for fertilizer amounts, installable on your phone. [Open the app](https://gerry-git-ops.github.io/grow-feed-calculator/)
-- ✦ **[Waveshare P2.5 LED Matrix](https://github.com/gerry-git-ops/Waveshare-P2.5-LED-Matrix)** – a modular display system for HUB75 LED panels on the Raspberry Pi.
+| Project | What it does | Info |
+| --- | --- | --- |
+| 🌱 **[Grow Feed Calculator](https://github.com/gerrys-codeatorium/grow-feed-calculator)** | A small, open calculator for fertilizer amounts, installable on your phone.<br>👉 [Open the app](https://gerrys-codeatorium.github.io/grow-feed-calculator/) | ![Stars](https://img.shields.io/github/stars/gerrys-codeatorium/grow-feed-calculator?style=flat&label=Stars&color=A3E635)<br>![Last commit](https://img.shields.io/github/last-commit/gerrys-codeatorium/grow-feed-calculator?label=Last%20commit&color=3F9470)<br>![License](https://img.shields.io/github/license/gerrys-codeatorium/grow-feed-calculator?label=License&color=6B7280) |
+| ✦ **[Waveshare P2.5 LED Matrix](https://github.com/gerry-git-ops/Waveshare-P2.5-LED-Matrix)** | A modular display system for HUB75 LED panels on the Raspberry Pi. | ![Stars](https://img.shields.io/github/stars/gerry-git-ops/Waveshare-P2.5-LED-Matrix?style=flat&label=Stars&color=A3E635)<br>![Last commit](https://img.shields.io/github/last-commit/gerry-git-ops/Waveshare-P2.5-LED-Matrix?label=Last%20commit&color=3F9470)<br>![License](https://img.shields.io/github/license/gerry-git-ops/Waveshare-P2.5-LED-Matrix?label=License&color=6B7280) |
 
 More projects will move here step by step.
+
+## 📖 About
+
+<details>
+<summary><b>What is GeRRy’s &lt;Codeatorium&gt;?</b></summary>
+
+<br>
+
+GeRRy’s &lt;Codeatorium&gt; is the shared home for my hobby projects on GitHub.
+It is not a company – just one person who likes building small, useful things in his spare time.
+
+- 🆓 Everything runs on free plans
+- 🌍 Documentation in English and German
+- 🔓 Public projects are open source – see the license in each repository
+
+</details>
 
 ## 💬 Feedback
 
