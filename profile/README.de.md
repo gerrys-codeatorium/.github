@@ -2,10 +2,8 @@
 
 <div align="center">
 
-<picture>
-  <a href="https://github.com/gerrys-codeatorium#gh-light-mode-only"><img src="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_hell.svg" alt="Logo von GeRRy’s Codeatorium" width="560"></a>
-  <a href="https://github.com/gerrys-codeatorium#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_dunkel.svg" alt="Logo von GeRRy’s Codeatorium" width="560"></a>
-</picture>
+<a href="https://github.com/gerrys-codeatorium#gh-light-mode-only"><img src="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_hell.svg" alt="Logo von GeRRy’s Codeatorium" width="560"></a>
+<a href="https://github.com/gerrys-codeatorium#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/gerrys-codeatorium/.github/main/profile/assets/GeRRys_Codeatorium_dunkel.svg" alt="Logo von GeRRy’s Codeatorium" width="560"></a>
 
 # 🖥️ GeRRy’s &lt;Codeatorium&gt;
 
